@@ -1,2 +1,2 @@
 # Depth-of-Anesthesia-using-Deep-Learning
-Repository containing the code of the work done in a research internship with Yuan Ze University
+Classifying the dept levels of Anesthesia using data of 50 patients collected from a hospital in Taiwan and use the EEG signal data to forecast the patient's level of anaesthesia during surgery using the BIS (BiSpectral Index) value.
